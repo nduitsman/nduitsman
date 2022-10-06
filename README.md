@@ -3,6 +3,7 @@
 
 ![Netflix-Reimagined-Demo-Compressed](https://user-images.githubusercontent.com/108159910/191875985-c0817a66-5cce-4df3-aa99-59dc30b49ad9.gif)
 
+<img width="1200" alt="Screen Shot 2022-08-11 at 10 18 54 AM" src="https://user-images.githubusercontent.com/109879521/184163803-985ba939-673a-4892-acaa-0f0168729b16.png">
 
 - 🔭 I’m currently working on [Netflix Reimagined](https://github.com/nduitsman/Netflix-Reimaged)
 
