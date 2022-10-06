@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **nduitsman@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1XLGcYVR_hfF06Y9RXV-kLcJfWtUe7qyh8TBLJYkMW0U/edit](https://docs.google.com/document/d/1XLGcYVR_hfF06Y9RXV-kLcJfWtUe7qyh8TBLJYkMW0U/edit)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicholas-duitsman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholas-duitsman" height="30" width="40" /></a>
