@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nick Duitsman</h1>
 <h3 align="center">I am a Software Engineer with a bachelor’s degree in Electrical and Computer Engineering, looking to translate my skills into the web development field. WIth 8 years of management experience, and 3 years of engineering team lead experience, I have a solid foundation for a new role in a software engineering team.</h3>
 
+![Netflix-Reimagined-Demo-Compressed](https://user-images.githubusercontent.com/108159910/191875985-c0817a66-5cce-4df3-aa99-59dc30b49ad9.gif)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nduitsman" alt="nduitsman" /></a> </p>
 
 - 🔭 I’m currently working on [Netflix Reimagined](https://github.com/nduitsman/Netflix-Reimaged)
